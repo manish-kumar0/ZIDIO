@@ -2,7 +2,7 @@ import axios from "axios";
 import { handle401 } from "./handle401";
 
 const recruiterApi = axios.create({
-  baseURL: "https://backend-7wlz.onrender.com/api/user/recruiter",
+  baseURL: "http://locolhost:8080/api/user/recruiter",
   withCredentials: true,
 });
 

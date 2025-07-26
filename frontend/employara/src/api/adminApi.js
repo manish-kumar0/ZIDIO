@@ -2,7 +2,7 @@ import axios from 'axios';
 import { handle401 } from './handle401';
 
 const adminApi = axios.create({
-  baseURL: 'https://backend-7wlz.onrender.com/api/admin',
+  baseURL: 'http://localhost:8080/api/admin',
   withCredentials: true,
 });
 

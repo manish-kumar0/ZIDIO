@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const publicApi = axios.create({
-  baseURL: "https://backend-7wlz.onrender.com/api/public",
+  baseURL: "http://locolhost:8080/api/public",
   withCredentials: true,
 });
 
