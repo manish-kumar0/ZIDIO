@@ -24,7 +24,7 @@ ZIDIO is a full-stack job portal platform designed to connect jobseekers, recrui
 
 ### Recruiter Dashboard
 
-![Recruiter Dashboard](https://github.com/manishkumar632/ZIDIO/blob/5b2f62c3d1ebe11d7719622d07ebdc73936de534/images/Screenshot%202025-06-24%20165154.png)
+![Recruiter Dashboard](https://github.com/manish-kumar0/ZIDIO/blob/main/images/Screenshot%2017055.png)
 
 ### Apply For Job Page
 
